@@ -1,0 +1,47 @@
+javascript => front-end
+	   => back-end(서버 프로그램) => nodejs
+자바스크립트는 둘다 사용된다.
+
+chrome-> 자바스크립트엔진->v8 이고 현재 크롬에서만 지원된다. 다른브라우저에서 자바스크립트 엔전버전이 v8이면
+nodejs 를 사용할 수 있다고 생각 하면된다.
+
+nodejs는 REPL(Read-Evaluate-Print-loop)을 제공한다.
+(파이썬도 refl이 제공된다)
+입력한 자바스크립트 코드를 직접 돌려보며 테스트를 수행할 수 있다.
+
+
+
+
+컴퓨터 속성에서 환경변수에 ;C:\Program Files\nodejs 추가해준다.
+
+node.js command prompt 에서 node 입력
+
+테스트)
+console.log('hellow')
+
+3+2
+
+
+test=function(){console.log(3+5);}
+
+test
+
+test()
+
+---------------------------------------
+
+.help 입력
+
+명령어 = repl  = .으로 시작한다.
+
+
+eclipse marketplace에서 nodejs 검색  nodecpipse 설치
+
+
+open perspective에서 node 선택후 프로젝트 explorer에서 우클릭후 other -> node-> nodejs project 선택
+
+nodejs express project는 spring 의 framework같은 것.
+
+
+erm master 주소
+http://ermaster.sourceforge.net/update-site/
