@@ -38,7 +38,7 @@ test()
 eclipse marketplace에서 nodejs 검색  nodecpipse 설치
 
 
-open perspective에서 node 선택후 프로젝트 explorer에서 우클릭후 other -> node-> nodejs project 선택
+우측상단 open perspective에서 node 선택후 프로젝트 explorer에서 우클릭후 other -> node-> nodejs project 선택
 
 nodejs express project는 spring 의 framework같은 것.
 
